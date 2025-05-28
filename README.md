@@ -1,2 +1,2 @@
 # javascript
-web development
+web developer as afront end developer
